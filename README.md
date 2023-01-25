@@ -26,6 +26,6 @@ Here images [folder](images)
 🌇
 
 ### Tabelle  
-| Name | Klasse |  
-| kdskfdf | dafsdfsd |  
-| sfgdfd | afssdsd |  
+| Name | Klasse |
+| Peter | 10a |
+| Tilda | 13b |
