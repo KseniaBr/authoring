@@ -4,7 +4,7 @@
 
 ### Kontrollkästchen
 
-[ ] [Externer Link](13)   
+[ ] [Externer Link]
 [ ] Interner Link  
 [ ] Bilder  
 [ ] Emojis  
