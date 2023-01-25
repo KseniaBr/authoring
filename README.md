@@ -23,7 +23,7 @@ Here images [folder](images)
 <a name="bild"></a>
 ### Bild
 
-[wolga](wolga.jpg)
+[wolga](authoring/images/wolga.jpg)
 
 <a name="emoji"></a>
 ### Emojis  
