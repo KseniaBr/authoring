@@ -4,7 +4,7 @@
 
 ### Kontrollkästchen
 
-[ ] Externer Link  
+[ ] [Externer Link](13)   
 [ ] Interner Link  
 [ ] Bilder  
 [ ] Emojis  
@@ -28,5 +28,6 @@ Here images [folder](images)
 ### Tabelle  
 
 | Name | Klasse |
+| ---- | ------ |
 | Peter | 10a |
 | Tilda | 13b |
