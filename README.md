@@ -4,11 +4,11 @@
 
 ### Kontrollkästchen
 
-[ X ] [Externer Link](#extern)  
-[ X ] [Interner Link](#intern)   
-[ X ] [Bilder](#bild)    
-[ X ] [Emojis](#emoji)    
-[ X ] [Tabellen](#tabelle)    
+- [x] [Externer Link](#extern)  
+- [x] [Interner Link](#intern)   
+- [x] [Bilder](#bild)    
+- [x] [Emojis](#emoji)    
+- [x] [Tabellen](#tabelle)    
 
 <a name="extern"></a>
 ### externer Link
