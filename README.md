@@ -4,11 +4,11 @@
 
 ### Kontrollkästchen
 
-[ ] Externer Link
-[ ] Interner Link
-[ ] Bilder
-[ ] Emojis
-[ ] Tabellen
+[ ] Externer Link  
+[ ] Interner Link  
+[ ] Bilder  
+[ ] Emojis  
+[ ] Tabellen  
 
 ### externer Link 
 
