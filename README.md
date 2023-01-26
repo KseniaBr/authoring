@@ -4,14 +4,14 @@
 
 ### Kontrollkästchen
 
-- [x] [Externer Link](#extern)  
+- [x] [Externer Link](#externer-link)  
 - [x] [Interner Link](#intern)   
 - [x] [Bilder](#bild)    
 - [x] [Emojis](#emoji)    
 - [x] [Tabellen](#tabelle)    
 
-<a name="extern"></a>
-### externer Link
+
+### Externer Link
 
 [zur Github-Dokumentation](https://help.github.com/en)
 
